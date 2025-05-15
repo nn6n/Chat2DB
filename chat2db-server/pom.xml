@@ -186,7 +186,7 @@
             <dependency>
                 <groupId>cn.dev33</groupId>
                 <artifactId>sa-token-jwt</artifactId>
-                <version>1.34.0</version>
+                <version>1.42.0</version>
                 <exclusions>
                     <exclusion>
                         <artifactId>hutool-jwt</artifactId>
