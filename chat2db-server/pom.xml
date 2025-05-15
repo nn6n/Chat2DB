@@ -204,7 +204,7 @@
             <dependency>
                 <groupId>com.dtflys.forest</groupId>
                 <artifactId>forest-core</artifactId>
-                <version>1.5.32</version>
+                <version>1.6.4</version>
             </dependency>
 
             <!-- Database version management -->
