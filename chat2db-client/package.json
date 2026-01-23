@@ -35,7 +35,7 @@
     "echarts-for-react": "^3.0.2",
     "event-source-polyfill": "^1.0.31",
     "highlight.js": "^11.9.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.365.0",
     "markdown-it-link-attributes": "^4.0.1",
     "monaco-editor": "^0.44.0",
